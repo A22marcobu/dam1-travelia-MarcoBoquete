@@ -1,0 +1,98 @@
+.pres{
+    display:flex ;
+    width: 100%;
+    height: 70px;
+    background-color: #f42d59;
+}
+
+.pres h1{
+    font-family: 'Ephesis', cursive;
+    color: #ffffff;
+    margin-left: 10px;
+    
+}
+
+
+.cards{
+        display: flex; 
+        border:2px transparent;
+        justify-content: center;
+        background-color: gainsboro;
+        
+    }
+
+.cards img{
+    width: 60px;
+    margin: auto;
+    display: block;
+    border-radius: 50%;
+    padding: 10px;
+}
+
+.cards h2{
+    font-family: 'Heebo', sans-serif;
+    text-align: center;
+}
+
+.cards p{
+    font-family: 'Heebo', sans-serif;
+    text-align: start;
+    margin-left: 7px;
+    margin-right: 7px;
+}
+#tou{
+        width: 200px;
+        height: 370px;
+        background-color: #ffffff;
+        margin: 12px;
+        list-style-type:none;
+       }
+
+#hik{
+        width: 200px;
+        height: 370px;
+        background-color: #ffffff;
+        margin: 12px;
+        list-style-type:none;
+       }
+
+#tra{
+        width: 200px;
+        height: 370px;
+        background-color: #ffffff;
+        margin: 12px;
+        list-style-type:none;
+       }
+
+#sup{
+        width: 200px;
+        height: 370px;
+        background-color: #ffffff;
+        margin: 12px;
+        list-style-type:none;
+       }
+
+.cont{
+    display: flex;
+    border:2px transparent;
+    justify-content: center;
+    background-color: gainsboro;
+    
+}
+
+.cont form{
+    width: 200px;
+    height: 370px;
+    background-color: #ffffff;
+    margin: 12px;
+    list-style-type:none;
+    font-family: 'Heebo', sans-serif;
+
+}
+
+#cus{
+    font-size: 130%;
+    font-weight: bold;
+    text-align: center;
+}
+
